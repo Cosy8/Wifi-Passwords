@@ -29,5 +29,3 @@ class gui:
 
     def clicked(self):
         wifi(self.text)
-
-gui()
